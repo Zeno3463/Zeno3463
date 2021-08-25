@@ -6,7 +6,7 @@
 [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeno3463&theme=dracula)](https://github.com/Zeno3463)
 
 ## I'm currently working on 🖥️
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=conway-game-of-life&theme=dracula)](https://github.com/Zeno3463/conway-game-of-life)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=metroidvania-game&theme=dracula)](https://github.com/Zeno3463/metroidvania-game)
 
 ## I'm currently learning 📕
 - next.js
