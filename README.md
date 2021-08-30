@@ -10,6 +10,7 @@
 
 ## I'm currently learning 📕
 - next.js
+- nest.js
 - flutter
 
 <!--
