@@ -1,6 +1,6 @@
 # Hi there 👋
 #### I am Zeno (He/Him). I am a hobbyist game and web developer.
-<a href="https://app.daily.dev/3463"><img src="https://github.com/Zeno3463/Zeno3463/blob/master/devcard.svg" width="140" alt="Zeno's Dev Card"/></a>
+<a href="https://app.daily.dev/3463"><img src="https://github.com/Zeno3463/Zeno3463/blob/main/devcard.svg" width="140" alt="Zeno's Dev Card"/></a>
 [![Zeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeno3463&theme=dracula)](https://github.com/Zeno3463)
 
 ## Languages I use 🌐
