@@ -7,7 +7,7 @@
 [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeno3463&theme=dracula)](https://github.com/Zeno3463)
 
 ## I'm currently working on 🖥️
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=metroidvania-game&theme=dracula)](https://github.com/Zeno3463/metroidvania-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=generation-142&theme=dracula)](https://github.com/Zeno3463/generation-142)
 
 ## I'm currently learning 📕
 - next.js
