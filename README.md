@@ -7,11 +7,11 @@
 [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeno3463&theme=dracula)](https://github.com/Zeno3463)
 
 ## I'm currently working on 🖥️
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=web3.0-youtube-clone&theme=dracula)](https://github.com/Zeno3463/web3.0-youtube-clone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=blockchain-to-do-list&theme=dracula)](https://github.com/Zeno3463/blockchain-to-do-list)
 
 ## I'm currently learning 📕
 - flutter
-- moralis.io
+- go
 - solidity
 
 <!--
