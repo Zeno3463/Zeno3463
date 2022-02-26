@@ -10,7 +10,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=wordle-with-a-twist&theme=dracula)](https://github.com/Zeno3463/wordle-with-a-twist)
 
 ## I'm currently learning 📕
-- go
 - solidity
 
 <!--
