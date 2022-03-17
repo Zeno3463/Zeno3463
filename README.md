@@ -7,7 +7,7 @@
 [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeno3463&theme=dracula)](https://github.com/Zeno3463)
 
 ## I'm currently working on 🖥️
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=ether-donate&theme=dracula)](https://github.com/Zeno3463/ether-donate)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zeno3463&repo=skribblio-clone&theme=dracula)](https://github.com/Zeno3463/skribblio-clone)
 
 ## I'm currently learning 📕
 - solidity
